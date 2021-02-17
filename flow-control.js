@@ -11,7 +11,7 @@ function ageChecker(age) {
 if (age === "13") {
       return true
     }
-   
+
     return false
   }
 
