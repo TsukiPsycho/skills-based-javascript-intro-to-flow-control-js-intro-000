@@ -20,6 +20,6 @@ if(16) "You are a teenager" : "You are not a teenager"
 }
 
 function switchAge(age) {
-if (12)
+if(12<= || =>20)
 "You have an age"
 }
